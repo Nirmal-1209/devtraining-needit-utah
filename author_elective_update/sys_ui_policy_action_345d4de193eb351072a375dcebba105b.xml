@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_other</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>nirmal.gharpure</sys_created_by>
+        <sys_created_on>2024-01-05 05:25:19</sys_created_on>
+        <sys_id>345d4de193eb351072a375dcebba105b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_other</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_345d4de193eb351072a375dcebba105b</sys_update_name>
+        <sys_updated_by>nirmal.gharpure</sys_updated_by>
+        <sys_updated_on>2024-01-05 05:25:19</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value="NeedIt show or hide Other field">d70b4de193eb351072a375dcebba104b</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4ddebb4edbaa359cb1eb9027c59619f1</instance_id>
+        <instance_name>dev216056</instance_name>
+        <name>sys_ui_policy_action_345d4de193eb351072a375dcebba105b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>u_other</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>nirmal.gharpure</sys_created_by><sys_created_on>2024-01-05 05:25:19</sys_created_on><sys_id>345d4de193eb351072a375dcebba105b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_other</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_345d4de193eb351072a375dcebba105b</sys_update_name><sys_updated_by>nirmal.gharpure</sys_updated_by><sys_updated_on>2024-01-05 05:25:19</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="NeedIt show or hide Other field">d70b4de193eb351072a375dcebba104b</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1458906810</payload_hash>
+        <record_name>u_other</record_name>
+        <reverted_from/>
+        <source>3b9cd9be931f711072a375dcebba1068</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nirmal.gharpure</sys_created_by>
+        <sys_created_on>2024-01-05 05:25:19</sys_created_on>
+        <sys_id>d56d09a593eb351072a375dcebba105c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cd8153c010000001</sys_recorded_at>
+        <sys_updated_by>nirmal.gharpure</sys_updated_by>
+        <sys_updated_on>2024-01-05 05:25:19</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>d96d41a55deb3510b2f4d327ae385905</update_guid>
+        <update_guid_history>d96d41a55deb3510b2f4d327ae385905:-1458906810</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nirmal.gharpure</sys_created_by>
+        <sys_created_on>2024-01-07 10:16:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>4706c204eb674850819edd7ef72e65e1</sys_id>
+        <sys_metadata>345d4de193eb351072a375dcebba105b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_other</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt show or hide Other field">d70b4de193eb351072a375dcebba104b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_345d4de193eb351072a375dcebba105b</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_345d4de193eb351072a375dcebba105b">d56d09a593eb351072a375dcebba105c</sys_update_version>
+        <sys_updated_by>nirmal.gharpure</sys_updated_by>
+        <sys_updated_on>2024-01-07 10:16:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
